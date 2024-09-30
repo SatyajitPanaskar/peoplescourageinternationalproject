@@ -1,0 +1,32 @@
+.secondHomepageSection {
+  width: 100%;
+  height: 600px;
+  background-color: #f4f9ff;
+}
+.container_SecondSection {
+  padding-top: 100px;
+}
+.col1_SecondSection h2 {
+  color: #2d276a;
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.col1_SecondSection p {
+  color: black;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: justify;
+  padding-right: 30px;
+}
+.col2_SecondSection h3 img {
+  width: 400px;
+  height: 400px;
+  object-position: center;
+  object-fit: cover;
+
+  background-repeat: no-repeat;
+  padding: 5px 15px;
+
+  border-radius: 30px;
+}

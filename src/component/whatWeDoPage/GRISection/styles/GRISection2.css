@@ -1,0 +1,35 @@
+.griSection2 {
+  width: 100%;
+  background-color: #f4f9ff;
+}
+.container_griSection2 {
+}
+.container_griSection2 {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+.col1_griSection2 {
+  padding-top: 60px;
+  padding-right: 100px;
+  text-align: justify;
+}
+.col1_griSection2 h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+}
+.col1_griSection2 p {
+  font-size: 16px;
+  color: #111;
+}
+.col2_griSection2 h6 {
+  margin-left: -70px;
+}
+
+.col2_griSection2 h6 img {
+  border-radius: 10px;
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+}

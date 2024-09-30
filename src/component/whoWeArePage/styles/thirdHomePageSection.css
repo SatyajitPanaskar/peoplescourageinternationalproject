@@ -1,0 +1,35 @@
+.thirdHomePageSection {
+  width: 100%;
+  height: 500px;
+}
+.row_thirdSection {
+  padding-top: 40px;
+}
+
+.col2_thirdSection h2 {
+  padding-top: 30px;
+  padding-left: 140px;
+  color: #2d276a;
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.col2_thirdSection p {
+  color: black;
+  font-size: 17px;
+  font-weight: 400;
+  padding-left: 140px;
+  text-align: justify;
+  padding-right: 30px;
+}
+.col1_thirdSection h3 img {
+  width: 400px;
+  height: 400px;
+  object-position: center;
+  object-fit: cover;
+
+  background-repeat: no-repeat;
+  padding: 5px 15px;
+
+  border-radius: 30px;
+}

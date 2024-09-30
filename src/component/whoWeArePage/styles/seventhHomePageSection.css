@@ -1,0 +1,49 @@
+.seventhSection {
+  background-color: #f4f9ff;
+  width: 100%;
+  margin-top: 40px;
+}
+.seventhHeadText h1 {
+  font-size: 40px;
+  color: #2d276a;
+  font-weight: 650;
+  padding-top: 20px;
+}
+.row1_SeventhSection {
+  gap: 30px;
+  padding-top: 20px;
+}
+.row2_SeventhSection {
+  gap: 30px;
+  margin-top: 30px;
+  padding-bottom: 100px;
+}
+.col1_SeventhSection h6 img,
+.col2_SeventhSection h6 img,
+.col3_SeventhSection h6 img,
+.col4_SeventhSection h6 img,
+.col5_SeventhSection h6 img,
+.col6_SeventhSection h6 img,
+.col7_SeventhSection h6 img,
+.col8_SeventhSection h6 img,
+.col9_SeventhSection h6 img {
+  width: 200px;
+  height: 230px;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.col1_SeventhSection h4,
+.col2_SeventhSection h4,
+.col3_SeventhSection h4,
+.col4_SeventhSection h4,
+.col5_SeventhSection h4,
+.col6_SeventhSection h4,
+.col7_SeventhSection h4,
+.col8_SeventhSection h4,
+.col9_SeventhSection h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #2d276a;
+}

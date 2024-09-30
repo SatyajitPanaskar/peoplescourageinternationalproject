@@ -1,0 +1,35 @@
+.criSection4 {
+}
+.container_criSection4 {
+  margin-top: 100px;
+}
+.container_criSection4 h1 {
+  color: #2d276a;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+.col2_criSection4 h6 {
+  text-align: center;
+  padding-top: 20px;
+}
+.col2_criSection4 h6 img {
+  width: 848px;
+  height: 450px;
+  margin-bottom: 20px;
+}
+.criSection4Maptext .p1,
+.criSection4Maptext .p2 {
+  text-align: center;
+  font-size: 16px;
+}
+.criSection4Maptext p span {
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+}
+.p2 {
+  padding-top: -30px;
+  padding-bottom: 50px;
+  margin-top: -20px;
+}

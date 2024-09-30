@@ -1,0 +1,36 @@
+.section_2 {
+  margin-top: 100px;
+}
+.section_2_row {
+}
+.section_2_col2 {
+  position: relative;
+  top: 140px;
+}
+.section_2_col2 h1 {
+  font-size: 40px;
+  color: #2d2a6c;
+  font-weight: 700;
+}
+.section_2_col2 h4 {
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 15px;
+}
+.section_2_button {
+  padding-top: 20px;
+}
+.section_2_button a {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: #2d2a6c;
+  padding: 8px 24px;
+  border-radius: 50px;
+  border: 0.5px solid #2d2a6c;
+}
+.section_2_button a:hover {
+  color: black;
+  background-color: white;
+}

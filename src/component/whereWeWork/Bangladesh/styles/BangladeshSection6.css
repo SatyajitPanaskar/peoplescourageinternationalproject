@@ -1,0 +1,73 @@
+.BangladeshSection6 {
+  background-color: #f4f9ff;
+}
+.container_BangladeshSection6 {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.row1_BangladeshSection6 h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+  text-align: center;
+}
+.row2_BangladeshSection6,
+.row3_BangladeshSection6,
+.row4_BangladeshSection6,
+.row5_BangladeshSection6 {
+  padding-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+
+.col1_BangladeshSection6 h6 {
+}
+.col1_BangladeshSection6 h6 img {
+  width: 380px;
+  object-fit: cover;
+  object-position: center;
+  padding: 10px;
+  border-radius: 30px;
+}
+.col4_BangladeshSection6 h6 img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.col5_BangladeshSection6 h6 img {
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.col8_BangladeshSection6 h6 img {
+  width: 400px;
+  object-fit: cover;
+  object-position: center;
+
+  border-radius: 30px;
+}
+.col2_BangladeshSection6 h3,
+.col3_BangladeshSection6 h3,
+.col6_BangladeshSection6 h3,
+.col7_BangladeshSection6 h3 {
+  padding-top: 80px;
+  font-size: 25px;
+  font-weight: 700;
+  color: #2d276a;
+}
+.col2_BangladeshSection6 p,
+.col3_BangladeshSection6 p,
+.col6_BangladeshSection6 p,
+.col7_BangladeshSection6 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #111;
+  text-align: justify;
+}

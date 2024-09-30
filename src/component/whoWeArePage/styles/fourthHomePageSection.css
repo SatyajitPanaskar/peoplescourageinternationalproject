@@ -1,0 +1,128 @@
+/* Container general settings */
+.fourthSection {
+  background-color: #f4f9ff;
+  width: 100%;
+  height: auto; /* Changed from fixed height to auto for better responsiveness */
+  padding-bottom: 40px; /* Added padding to give some space on smaller devices */
+}
+
+.textSection h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+  padding-top: 40px;
+}
+
+.textSection p {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+}
+
+.cardIocnSection {
+  display: flex;
+  flex-wrap: wrap; /* This will allow items to wrap based on screen width */
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Adds spacing between columns for all devices */
+  margin-top: 50px;
+}
+
+/* General column styles */
+.col1_fourthSection,
+.col2_fourthSection,
+.col3_fourthSection {
+  width: 100%; /* Start with full width for mobile */
+  max-width: 435px;
+  height: auto;
+  border-radius: 20px;
+  background-color: white;
+  text-align: center;
+  transition: border 0.3s ease;
+}
+
+.col1_fourthSection h6 img,
+.col2_fourthSection h6 img,
+.col3_fourthSection h6 img {
+  width: 96px;
+  height: 96px;
+  background-color: #f4f9ff;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.col1_fourthSection h4,
+.col2_fourthSection h4,
+.col3_fourthSection h4 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #1d3547;
+  text-align: justify;
+  padding: 0px 20px;
+}
+
+.col1_fourthSection:hover,
+.col2_fourthSection:hover,
+.col3_fourthSection:hover {
+  border: 1px solid black;
+}
+
+/* Mobile devices - 1 column layout */
+@media (max-width: 576px) {
+  .cardIocnSection {
+    flex-direction: column;
+  }
+
+  .col1_fourthSection,
+  .col2_fourthSection,
+  .col3_fourthSection {
+    margin: 10px 0; /* Adds space between the rows for mobile */
+  }
+}
+
+/* Tablet devices - 2 columns layout */
+@media (min-width: 577px) and (max-width: 992px) {
+  .cardIocnSection {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .col1_fourthSection,
+  .col2_fourthSection,
+  .col3_fourthSection {
+    width: 48%; /* Each column will take up 48% of the container */
+  }
+
+  .col1_fourthSection {
+    margin-right: 2%; /* Adds space between columns */
+  }
+
+  .col3_fourthSection {
+    margin-left: 2%;
+  }
+}
+
+/* Laptop devices and larger - 3 columns layout */
+@media (min-width: 993px) {
+  .cardIocnSection {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .col1_fourthSection,
+  .col2_fourthSection,
+  .col3_fourthSection {
+    width: 30%; /* 3 columns taking approximately 30% each */
+  }
+
+  .col1_fourthSection,
+  .col2_fourthSection,
+  .col3_fourthSection {
+    margin-left: 0; /* Removes any unnecessary spacing */
+    margin-right: 0;
+  }
+}

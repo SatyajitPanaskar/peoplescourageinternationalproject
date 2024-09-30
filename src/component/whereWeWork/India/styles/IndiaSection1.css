@@ -1,0 +1,24 @@
+.IndiaSection1 {
+  background-image: url("../images/IndiaSection1image1.webp");
+  width: 100%;
+  height: 500px;
+  margin-top: 90px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container_IndiaSection1 {
+}
+.row_IndiaSection1 {
+  position: relative;
+  top: 300px;
+  color: #fff;
+}
+.row_IndiaSection1 h1 {
+  font-size: 60px;
+  font-weight: 600;
+}
+.row_IndiaSection1 p {
+  font-size: 18px;
+  font-weight: 600;
+}

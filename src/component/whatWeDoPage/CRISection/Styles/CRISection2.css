@@ -1,0 +1,76 @@
+.criSection2 {
+  background-color: #f4f9ff;
+}
+.col1_criSection2 {
+}
+.col1_criSection2 h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+}
+.col1_criSection2 p {
+  text-align: justify;
+  font-size: 16px;
+  font-weight: 400;
+  padding-right: 35px;
+}
+.col2_criSection2 h6 img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+  margin-left: -30px;
+}
+
+.row2_criSection2 {
+  margin-top: 40px;
+  padding-top: 40px;
+  gap: 60px;
+  margin-left: 35px;
+  padding-bottom: 70px;
+}
+.col2_1_criSection2,
+.col2_2_criSection2,
+.col2_3_criSection2 {
+  border-radius: 10px;
+  margin-left: -40px;
+  background-color: #fff;
+}
+.col2_1_criSection2 h6,
+.col2_2_criSection2 h6,
+.col2_3_criSection2 h6 {
+  text-align: center;
+  padding-top: 20px;
+}
+.col2_1_criSection2 h6 img,
+.col2_2_criSection2 h6 img,
+.col2_3_criSection2 h6 img {
+  width: 96px;
+  height: 96px;
+  background-color: #f4f9ff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.col2_1_criSection2 h2,
+.col2_2_criSection2 h2,
+.col2_3_criSection2 h2 {
+  font-size: 28px;
+  font-weight: 500;
+  color: #2d276a;
+  text-align: center;
+}
+.col2_1_criSection2 p,
+.col2_2_criSection2 p,
+.col2_3_criSection2 p {
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  text-align: justify;
+}
+.col2_1_criSection2:hover,
+.col2_2_criSection2:hover,
+.col2_3_criSection2:hover {
+  border: 1px solid black;
+}

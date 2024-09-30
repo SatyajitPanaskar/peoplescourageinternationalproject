@@ -1,0 +1,114 @@
+.griSection3 {
+  background-color: #fff;
+}
+
+.container_griSection3 {
+  padding-top: 50px;
+}
+.col1_grisection3 {
+}
+.col1_grisection3 h6 {
+}
+.col1_grisection3 h6 img {
+  width: 370px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+.col2_grisection3 {
+  padding-top: 60px;
+
+  text-align: justify;
+}
+.col2_grisection3 h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+}
+.col2_grisection3 p {
+  font-size: 16px;
+  color: #626262;
+}
+.col2_grisection3 li {
+  font-size: 16px;
+  color: #626262;
+  font-weight: 450;
+}
+.row2_griSection3 {
+  margin-top: 30px;
+  display: flex;
+  gap: 30px;
+}
+.col3_grisection3 {
+  width: 870px;
+  border-radius: 10px;
+}
+.col4_grisection3 {
+  width: 870px;
+  border-radius: 10px;
+}
+.col5_grisection3 {
+  width: 870px;
+  border-radius: 10px;
+}
+.col3_grisection3,
+.col4_grisection3,
+.col5_grisection3 {
+  padding: 0px 40px;
+
+  background-color: #f4f9ff;
+}
+.col3_grisection3 h6,
+.col4_grisection3 h6,
+.col5_grisection3 h6 {
+  text-align: center;
+  margin-top: 25px;
+}
+.col3_grisection3 h6 img,
+.col4_grisection3 h6 img,
+.col5_grisection3 h6 img {
+  width: 96px;
+  height: 96px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+.col3_grisection3 h2,
+.col4_grisection3 h2,
+.col5_grisection3 h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #2d276a;
+  text-align: center;
+}
+.col3_grisection3 p,
+.col4_grisection3 p,
+.col5_grisection3 p {
+  font-size: 16px;
+  color: #626262;
+  text-align: justify;
+}
+.col3_grisection3:hover,
+.col4_grisection3:hover,
+.col5_grisection3:hover {
+  border: 1px solid #2d276a;
+  background-color: #fff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.col3_grisection3:hover h6 img,
+.col4_grisection3:hover h6 img,
+.col5_grisection3:hover h6 img {
+  background-color: #f4f9ff;
+}
+
+.row3_griSection3 {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+.row3_griSection3 p {
+  font-size: 18px;
+  color: #2d276a;
+  font-weight: 400;
+  text-align: justify;
+}

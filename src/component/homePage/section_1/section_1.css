@@ -1,0 +1,76 @@
+.section_1 {
+  height: 610px;
+  width: 100%;
+  background-image: url("./background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+}
+.section_1_main {
+  padding-top: 330px;
+}
+.section_1_main h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+.section_1_main p {
+  font-size: 20px;
+}
+#section_1icon {
+  display: flex;
+  gap: 100px;
+  top: 10px;
+}
+.section_1_icon1 {
+  display: flex;
+  align-items: center;
+}
+.section_1_icon1 h4 img {
+  width: 30px;
+  height: 30px;
+}
+.section_1_icon1 h3 {
+  font-size: 15px;
+  margin: 0px 10px;
+}
+.section_1_icon2 {
+  display: flex;
+  align-items: center;
+}
+.section_1_icon2 h4 img {
+  width: 30px;
+  height: 30px;
+}
+.section_1_icon2 h3 {
+  font-size: 15px;
+  margin: 0px 10px;
+}
+.section_1_icon3 {
+  display: flex;
+  align-items: center;
+}
+.section_1_icon3 h4 img {
+  width: 30px;
+  height: 30px;
+}
+.section_1_icon3 h3 {
+  font-size: 15px;
+  margin: 0px 10px;
+}
+.section_1_button {
+  margin-top: 15px;
+}
+.section_1_button a {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: #2390e2;
+  padding: 8px 24px;
+  border-radius: 50px;
+}
+.section_1_button a:hover {
+  color: black;
+  background-color: white;
+}

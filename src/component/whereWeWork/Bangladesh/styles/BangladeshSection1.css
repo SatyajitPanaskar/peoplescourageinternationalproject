@@ -1,0 +1,23 @@
+.bangladeshSection1 {
+  margin-top: 90px;
+  width: 100%;
+  height: 600px;
+  background-image: url("../images/bangladeshSection1image1.webp");
+  background-repeat: no-repeat;
+  object-fit: cover;
+  object-position: center;
+}
+.conatiner_bangladeshSection1 {
+  position: relative;
+  top: 400px;
+}
+.conatiner_bangladeshSection1 h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #fff;
+}
+.conatiner_bangladeshSection1 p {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 500;
+}
