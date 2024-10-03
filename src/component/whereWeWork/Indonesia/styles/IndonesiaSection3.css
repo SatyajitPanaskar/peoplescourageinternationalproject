@@ -1,0 +1,77 @@
+.IndonesiaSection3 {
+  background-color: #fff;
+}
+.conatiner_IndonesiaSection3 {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.title_IndonesiaSection3 h4 {
+  font-size: 25px;
+  color: #2d276a;
+  font-weight: 600;
+  padding-top: 10px;
+}
+.row1_IndonesiaSection3,
+.row2_IndonesiaSection3 {
+  display: flex;
+  gap: 30px;
+}
+
+.col1_IndonesiaSection3,
+.col2_IndonesiaSection3 {
+  width: 700px;
+  height: 230px;
+  background-color: #f4f9ff;
+  border-radius: 10px;
+}
+.col3_IndonesiaSection3,
+.col4_IndonesiaSection3 {
+  width: 700px;
+  height: 230px;
+  background-color: #f4f9ff;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.col1_IndonesiaSection3 h6,
+.col2_IndonesiaSection3 h6,
+.col3_IndonesiaSection3 h6,
+.col4_IndonesiaSection3 h6 {
+  padding-top: 10px;
+  text-align: center;
+}
+.col1_IndonesiaSection3 h6 img,
+.col2_IndonesiaSection3 h6 img,
+.col3_IndonesiaSection3 h6 img,
+.col4_IndonesiaSection3 h6 img {
+  width: 96px;
+  height: 96px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.col1_IndonesiaSection3 p,
+.col2_IndonesiaSection3 p,
+.col3_IndonesiaSection3 p,
+.col4_IndonesiaSection3 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #2d276a;
+  text-align: justify;
+  padding: 10px;
+}
+.col1_IndonesiaSection3:hover,
+.col2_IndonesiaSection3:hover,
+.col3_IndonesiaSection3:hover,
+.col4_IndonesiaSection3:hover {
+  border: 2px solid black;
+  transition: 0.3s ease-in-out;
+  background-color: #fff;
+}
+.col1_IndonesiaSection3:hover h6 img,
+.col2_IndonesiaSection3:hover h6 img,
+.col3_IndonesiaSection3:hover h6 img,
+.col4_IndonesiaSection3:hover h6 img {
+  background-color: #f4f9ff;
+}

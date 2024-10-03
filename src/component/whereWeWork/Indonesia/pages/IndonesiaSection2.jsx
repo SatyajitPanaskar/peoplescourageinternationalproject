@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/IndiaSection2.css";
-import IndonesiaSection2image1 from "../images/IndonesiaSection2image1.png";
+import "../styles/IndonesiaSection2.css";
+import IndonesiaSection2image1 from "../images/IndonesiaSection2image1.webp";
 import IndonesiaSection2image2 from "../images/IndonesiaSection2image2.webp";
 import IndonesiaSection2image3 from "../images/IndonesiaSection2image3.webp";
 import IndonesiaSection2image4 from "../images/IndonesiaSection2image4.png";
@@ -23,7 +23,7 @@ const IndonesiaSection2 = () => {
                 />
               </h6>
               <h2>Number of internal migrants</h2>
-              <p>140 million internal migrants move for work [1]</p>
+              <p>27 million internal migrants[1]</p>
             </div>
             <div className="col2_IndonesiaSection2">
               <h6>

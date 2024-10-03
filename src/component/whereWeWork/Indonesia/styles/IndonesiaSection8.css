@@ -1,0 +1,40 @@
+.IndonesiaSection8 {
+  background-color: #fff;
+}
+.container_IndonesiaSection8 {
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+.row_IndonesiaSection8 {
+  border: 1.5px dashed #2d276a;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+.row_IndonesiaSection8 h2 {
+  font-size: 26px;
+  font-weight: 600;
+  color: #2d276a;
+  padding-top: 20px;
+}
+.row_IndonesiaSection8 h3 a {
+  font-size: 16px;
+  font-weight: 500;
+  color: #2d276a;
+}
+.row_IndonesiaSection8 h3 a:hover {
+  font-size: 16px;
+  cursor: pointer;
+  color: rgb(39 147 226);
+}
+.row_IndonesiaSection8 h4 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #2d276a;
+  padding-top: 20px;
+}
+.row_IndonesiaSection8 ol li:hover {
+  color: rgb(39 147 226);
+
+  cursor: pointer;
+}

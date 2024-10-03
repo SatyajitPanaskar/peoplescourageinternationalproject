@@ -1,0 +1,65 @@
+.IndonesiaSection5 {
+  background-color: #f5f5f5;
+}
+.container_IndonesiaSection5 {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.headText_IndonesiaSection5 h2 {
+  font-size: 34px;
+  font-weight: 700;
+  color: #2d2a6c;
+  text-align: center;
+}
+.row_IndonesiaSection5 {
+  display: flex;
+  gap: 30px;
+  padding-top: 20px;
+}
+.col1_IndonesiaSection5,
+.col2_IndonesiaSection5,
+.col3_IndonesiaSection5,
+.col4_IndonesiaSection5 {
+  width: 370px;
+  height: 140px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.col1_IndonesiaSection5 h6,
+.col2_IndonesiaSection5 h6,
+.col3_IndonesiaSection5 h6,
+.col4_IndonesiaSection5 h6 {
+  text-align: center;
+  padding-top: 10px;
+}
+.col1_IndonesiaSection5 h6 img {
+  width: 200px;
+  height: 120px;
+  padding: 16px;
+}
+.col2_IndonesiaSection5 h6 img {
+  width: 250px;
+  height: 120px;
+  padding: 16px;
+  object-position: center;
+}
+
+.col3_IndonesiaSection5 h6 img {
+  width: 200px;
+  height: 100px;
+  padding-top: 10px;
+}
+
+.col4_IndonesiaSection5 h6 img {
+  width: 250px;
+  height: 120px;
+  padding: 16px;
+  object-position: center;
+}
+.col1_IndonesiaSection5:hover,
+.col2_IndonesiaSection5:hover,
+.col3_IndonesiaSection5:hover,
+.col4_IndonesiaSection5:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

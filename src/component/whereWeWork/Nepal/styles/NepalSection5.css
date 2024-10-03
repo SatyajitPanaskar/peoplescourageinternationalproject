@@ -1,0 +1,21 @@
+.NepalSection5 {
+  background-color: white;
+}
+.container_NepalSection5 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.row1_NepalSection5 h1 {
+  font-size: 35px;
+  font-weight: 700;
+  color: #2d2a6c;
+  text-align: center;
+}
+.row2_NepalSection5 h6 {
+  text-align: center;
+}
+.row2_NepalSection5 h6 img {
+  padding: 20px;
+  width: 700px;
+  /* height: 400px; */
+}

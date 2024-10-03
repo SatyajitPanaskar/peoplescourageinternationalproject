@@ -1,0 +1,31 @@
+.IndonesiaSection4 {
+  background-color: #f0f4fa;
+}
+.container_IndonesiaSection4 {
+  padding-top: 50px;
+}
+.row_IndonesiaSection4 {
+  display: flex;
+}
+.col1_IndonesiaSection4 {
+  position: relative;
+  top: 100px;
+}
+.col1_IndonesiaSection4 h1 {
+  color: #3a3a8c;
+  font-size: 44px;
+}
+.col2_IndonesiaSection4 h2 iframe {
+  width: 500px;
+  border-radius: 10px;
+}
+
+.col2_IndonesiaSection4 p a {
+  color: #3a3a8c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.col2_IndonesiaSection4 p a:hover {
+  text-decoration: underline;
+}

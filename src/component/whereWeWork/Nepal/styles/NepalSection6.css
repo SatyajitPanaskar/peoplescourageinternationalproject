@@ -1,0 +1,73 @@
+.NepalSection6 {
+  background-color: #f4f9ff;
+}
+.container_NepalSection6 {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.row1_NepalSection6 h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-weight: 700;
+  color: #2d276a;
+  text-align: center;
+}
+.row2_NepalSection6,
+.row3_NepalSection6,
+.row4_NepalSection6,
+.row5_NepalSection6 {
+  padding-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+
+.col1_NepalSection6 h6 {
+}
+.col1_NepalSection6 h6 img {
+  width: 400px;
+  object-fit: cover;
+  object-position: center;
+  padding: 10px;
+  border-radius: 30px;
+}
+.col4_NepalSection6 h6 img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.col5_NepalSection6 h6 img {
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.col8_NepalSection6 h6 img {
+  width: 400px;
+  object-fit: cover;
+  object-position: center;
+
+  border-radius: 30px;
+}
+.col2_NepalSection6 h3,
+.col3_NepalSection6 h3,
+.col6_NepalSection6 h3,
+.col7_NepalSection6 h3 {
+  padding-top: 80px;
+  font-size: 25px;
+  font-weight: 700;
+  color: #2d276a;
+}
+.col2_NepalSection6 p,
+.col3_NepalSection6 p,
+.col6_NepalSection6 p,
+.col7_NepalSection6 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #111;
+  text-align: justify;
+}

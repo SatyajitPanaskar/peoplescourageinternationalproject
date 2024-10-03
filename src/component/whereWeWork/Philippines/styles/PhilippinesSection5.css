@@ -1,0 +1,21 @@
+.PhilippinesSection5 {
+  background-color: white;
+}
+.container_PhilippinesSection5 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.row1_PhilippinesSection5 h1 {
+  font-size: 35px;
+  font-weight: 700;
+  color: #2d2a6c;
+  text-align: center;
+}
+.row2_PhilippinesSection5 h6 {
+  text-align: center;
+}
+.row2_PhilippinesSection5 h6 img {
+  padding: 20px;
+  width: 400px;
+  /* height: 400px; */
+}
